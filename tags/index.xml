@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RHS Racing</title>
-    <link>https://jimwebber.github.io/rhsracing/tags/</link>
+    <link>https://jimwebber.github.io/tags/</link>
     <description>Recent content in Tags on RHS Racing</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jimwebber.github.io/rhsracing/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimwebber.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>https://jimwebber.github.io/rhsracing/tags/css/</link>
+      <link>https://jimwebber.github.io/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jimwebber.github.io/rhsracing/tags/css/</guid>
+      <guid>https://jimwebber.github.io/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://jimwebber.github.io/rhsracing/tags/html/</link>
+      <link>https://jimwebber.github.io/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jimwebber.github.io/rhsracing/tags/html/</guid>
+      <guid>https://jimwebber.github.io/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>https://jimwebber.github.io/rhsracing/tags/index/</link>
+      <link>https://jimwebber.github.io/tags/index/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jimwebber.github.io/rhsracing/tags/index/</guid>
+      <guid>https://jimwebber.github.io/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://jimwebber.github.io/rhsracing/tags/markdown/</link>
+      <link>https://jimwebber.github.io/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jimwebber.github.io/rhsracing/tags/markdown/</guid>
+      <guid>https://jimwebber.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://jimwebber.github.io/rhsracing/tags/privacy/</link>
+      <link>https://jimwebber.github.io/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jimwebber.github.io/rhsracing/tags/privacy/</guid>
+      <guid>https://jimwebber.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>https://jimwebber.github.io/rhsracing/tags/shortcodes/</link>
+      <link>https://jimwebber.github.io/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jimwebber.github.io/rhsracing/tags/shortcodes/</guid>
+      <guid>https://jimwebber.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>https://jimwebber.github.io/rhsracing/tags/text/</link>
+      <link>https://jimwebber.github.io/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jimwebber.github.io/rhsracing/tags/text/</guid>
+      <guid>https://jimwebber.github.io/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>https://jimwebber.github.io/rhsracing/tags/emoji/</link>
+      <link>https://jimwebber.github.io/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jimwebber.github.io/rhsracing/tags/emoji/</guid>
+      <guid>https://jimwebber.github.io/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>
