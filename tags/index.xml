@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RHS Racing</title>
-    <link>/tags/</link>
+    <link>https://github.com/jimwebber/rhsracing/tags/</link>
     <description>Recent content in Tags on RHS Racing</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/jimwebber/rhsracing/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>/tags/css/</link>
+      <link>https://github.com/jimwebber/rhsracing/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/css/</guid>
+      <guid>https://github.com/jimwebber/rhsracing/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>/tags/html/</link>
+      <link>https://github.com/jimwebber/rhsracing/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/html/</guid>
+      <guid>https://github.com/jimwebber/rhsracing/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>/tags/index/</link>
+      <link>https://github.com/jimwebber/rhsracing/tags/index/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/index/</guid>
+      <guid>https://github.com/jimwebber/rhsracing/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>/tags/markdown/</link>
+      <link>https://github.com/jimwebber/rhsracing/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/markdown/</guid>
+      <guid>https://github.com/jimwebber/rhsracing/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>/tags/privacy/</link>
+      <link>https://github.com/jimwebber/rhsracing/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/privacy/</guid>
+      <guid>https://github.com/jimwebber/rhsracing/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>/tags/shortcodes/</link>
+      <link>https://github.com/jimwebber/rhsracing/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/shortcodes/</guid>
+      <guid>https://github.com/jimwebber/rhsracing/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>/tags/text/</link>
+      <link>https://github.com/jimwebber/rhsracing/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/text/</guid>
+      <guid>https://github.com/jimwebber/rhsracing/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>/tags/emoji/</link>
+      <link>https://github.com/jimwebber/rhsracing/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/emoji/</guid>
+      <guid>https://github.com/jimwebber/rhsracing/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>
