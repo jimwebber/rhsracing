@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on RHS Racing</title>
-    <link>https://jimwebber.github.io/rhsracing/tags/index/</link>
+    <link>/rhsracing/tags/index/</link>
     <description>Recent content in Index on RHS Racing</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jimwebber.github.io/rhsracing/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/rhsracing/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://jimwebber.github.io/rhsracing/posts/</link>
+      <link>/rhsracing/posts/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jimwebber.github.io/rhsracing/posts/</guid>
+      <guid>/rhsracing/posts/</guid>
       <description></description>
     </item>
   </channel>
