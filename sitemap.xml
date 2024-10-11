@@ -2,61 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/rhsracing/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>/tags/index/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/rhsracing/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/rhsracing/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>/posts/live-website/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/rhsracing/tags/index/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/rhsracing/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/rhsracing/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/rhsracing/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>/tags/text/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/rhsracing/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rhsracing/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rhsracing/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rhsracing/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rhsracing/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rhsracing/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rhsracing/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rhsracing/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rhsracing/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rhsracing/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rhsracing/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/rhsracing/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
   </url>
 </urlset>
