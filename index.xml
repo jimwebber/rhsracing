@@ -6,8 +6,15 @@
     <description>Recent content on RHS Racing</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 16:36:46 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Car Design Update</title>
+      <link>/posts/design_update/</link>
+      <pubDate>Mon, 02 Dec 2024 16:36:46 +0000</pubDate>
+      <guid>/posts/design_update/</guid>
+      <description>&lt;p&gt;Good news! The team has been working hard on the design of our F1 in Schools car.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;/img/car-cad-progress.jpg&#34;&#xA;    alt=&#34;CAD layout for our F1 car.&#34; width=&#34;60%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This is our current progress for our car design. It shows the in-progress design of our car from five different angles. We&amp;rsquo;re really pleased with our progress and really excited to finish it off.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Our Website is Live!</title>
       <link>/posts/live-website/</link>
